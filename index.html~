@@ -2,8 +2,6 @@
 layout: default
 title: Esra's Blogger
 ---
-<marquee behavior="alternate"><marquee width="150">Bloguma hosgeldiniz...</marquee></marquee> 
-<div id="home">
 
   <p>Kişisel web siteme hoşgeldiniz!</p>
 
@@ -13,4 +11,4 @@ title: Esra's Blogger
 
   {% include html/archive %}
 </div>
-  
+  <center><a href="http://birgonulbal.blogcu.com" target="_blank"><embed src="http://img515.imageshack.us/img515/1949/saatfh0.swf" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" name="obj1" width="160" height="160"></embed><noscript><a href="http://www.venus.gen.tr/ekle/"></a></noscript></a> 
