@@ -65,7 +65,7 @@ param:
         # email adresi (ör. roktas@bil.omu.edu.tr)
         email: esra.zengin@bil.omu.edu.tr
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
-        title: <a href="http://ondokuz.biz/">19</a> üyesi
+        title: Bilgisayar Mühendisi Adayı
         # GnuPG kısa parmak izi (ör. DEADBEEF)
         gpg: ~
         # twitter adresi (ör. http://19.status.net/roktas)
@@ -99,7 +99,7 @@ param:
         # ilişkili girdiler
         related: Diğer Girdiler
         # logo (ör. http://00010011.github.com/assets/19/19-normal-128x128.png)
-        logo: esrazngn.github.com/chrome/19/19-negative-128x128.png
+        logo: .https://github.com/esrazngn/esrazngn.github.com/blob/master/chrome/19/19-negative-143x59.png
         # google site içi arama kutusu
         google: ~
         # google analytics takip numarası (ör. UA-1234567-8
